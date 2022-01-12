@@ -181,3 +181,5 @@
 [submodule "hr"]
 	path = hr
 	url = https://github.com/OCA/hr
+	branch = 14.0
+	shallow = false
