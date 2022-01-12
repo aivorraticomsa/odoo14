@@ -178,3 +178,6 @@
 	url = https://github.com/OCA/web.git
 	branch = 14.0
 	shallow = true
+[submodule "hr"]
+	path = hr
+	url = https://github.com/OCA/hr
