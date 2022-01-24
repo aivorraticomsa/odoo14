@@ -180,6 +180,16 @@
 	shallow = true
 [submodule "hr"]
 	path = hr
-	url = https://github.com/OCA/hr
+	url = https://github.com/OCA/hr.git
 	branch = 14.0
-	shallow = false
+	shallow = True
+[submodule "hr-attendance"]
+	path = hr-attendance
+	url = https://github.com/OCA/hr-attendance.git
+	branch = 14.0
+	shallow = True
+[submodule "hr-holidays"]
+	path = hr-holidays
+	url = https://github.com/OCA/hr-holidays.git
+	branch = 14.0
+	shallow = True
