@@ -193,9 +193,3 @@
 	url = https://github.com/OCA/hr-holidays.git
 	branch = 14.0
 	shallow = True
-[submodule "web"]
-	path = web
-	url = https://github.com/OCA/web.git
-	branch = 14.0
-	shallow = True
-
