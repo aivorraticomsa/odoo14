@@ -188,8 +188,3 @@
 	url = https://github.com/OCA/hr-attendance.git
 	branch = 14.0
 	shallow = True
-[submodule "hr-holidays"]
-	path = hr-holidays
-	url = https://github.com/OCA/hr-holidays.git
-	branch = 14.0
-	shallow = True
