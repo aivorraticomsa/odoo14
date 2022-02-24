@@ -108,11 +108,6 @@
 	url = https://github.com/Openworx/odoo-addons.git
 	branch = 14.0
 	shallow = true
-[submodule "odoo-usability"]
-	path = odoo-usability
-	url = https://github.com/akretion/odoo-usability.git
-	branch = 14.0
-	shallow = true
 [submodule "odooapps"]
 	path = odooapps
 	url = https://github.com/odoomates/odooapps.git
