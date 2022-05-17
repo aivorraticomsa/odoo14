@@ -188,13 +188,3 @@
 	url = https://github.com/OCA/hr-holidays.git
 	branch = 14.0
 	shallow = True
-[submodule "connector-telephony"]
-	path = connector-telephony
-	url = https://github.com/OCA/connector-telephony.git
-	branch = 14.0
-	shallow = True
-[submodule "partner-contact"]
-	path = partner-contact
-	url = https://github.com/OCA/partner-contact.git
-	branch = 14.0
-	shallow = True
